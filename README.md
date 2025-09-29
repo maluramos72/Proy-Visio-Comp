@@ -33,7 +33,8 @@ cvzone
 Clona el repositorio:
 
 git clone https://github.com/maluramos72/Proy-Visio-Comp.git
-cd visionxcompu
+
+cd Proy-Visio-Comp
 
 
 Crea un entorno virtual (opcional pero recomendado):
