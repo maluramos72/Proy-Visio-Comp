@@ -1,4 +1,5 @@
-# Proy-Visio-Comp
+👋 Vision x Compu – Hand Tracking y Reconocimiento de Gestos
+
 Este proyecto utiliza Python + OpenCV + cvzone para detectar manos en tiempo real con la webcam  (mano abierta, puño cerrado, señal de llamada, etc.).
 
 📌 Características
@@ -32,17 +33,14 @@ cvzone
 
 Clona el repositorio:
 
-git clone https://github.com/maluramos72/Proy-Visio-Comp.git
-
-cd Proy-Visio-Comp
+git clone https://github.com/maluramos72/Proy-Visio.git
+cd visionxcompu
 
 
 Crea un entorno virtual (opcional pero recomendado):
 
 python -m venv venv
-
 source venv/bin/activate   # Linux/Mac
-
 venv\Scripts\activate      # Windows
 
 
@@ -68,4 +66,4 @@ Presiona q para salir de la aplicación.
 visionxcompu/
 │── Proypp-Visio.py     # Código principal de detección de manos y gestos
 │── requirements.txt     # Dependencias del proyecto
-│── README.md     
+│── README.md         
