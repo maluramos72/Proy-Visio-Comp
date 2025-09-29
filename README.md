@@ -33,14 +33,17 @@ cvzone
 
 Clona el repositorio:
 
-git clone https://github.com/maluramos72/Proy-Visio.git
-cd visionxcompu
+git clone https://github.com/maluramos72/Proy-Visio-Comp.git
+
+cd Proy-Visio-Comp
 
 
 Crea un entorno virtual (opcional pero recomendado):
 
 python -m venv venv
+
 source venv/bin/activate   # Linux/Mac
+
 venv\Scripts\activate      # Windows
 
 
@@ -63,7 +66,10 @@ python Proypp-Visio.py
 Presiona q para salir de la aplicación.
 
 📂 Estructura del Proyecto
-visionxcompu/
+Proy-Visio-Comp/
+
 │── Proypp-Visio.py     # Código principal de detección de manos y gestos
+
 │── requirements.txt     # Dependencias del proyecto
+
 │── README.md         
