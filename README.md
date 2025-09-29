@@ -40,7 +40,9 @@ cd Proy-Visio-Comp
 Crea un entorno virtual (opcional pero recomendado):
 
 python -m venv venv
+
 source venv/bin/activate   # Linux/Mac
+
 venv\Scripts\activate      # Windows
 
 
